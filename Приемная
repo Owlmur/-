@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Приемная Бога</title>
+</head>
+<style>
+    body{
+        background: url(небо.jpg); no-repeat;
+        -moz-background-size: 100%;
+        -webkit-background-size: 100%;
+        -o-bakground-size: 100%; 
+    }
+</style>
+<body style="background-attachment: fixed" topmargin="0">
+    <h2 style="    text-align: center;
+    color: rgb(8, 169, 233);
+    color:rgb(11, 87, 117)">Управление по управлению всеми управлениями</h2>
+    <h2>Наши кадры</h2>
+    <h2>
+        <p style=" text-align: center;
+            color: rgb(10, 9, 9);"><em>Аполлон Викторович</em></p>
+        <img src="Аполлон.jpg" width="170" >
+        <img src="аполлон2.webp" width="176" >
+        <img src="аполлон3.webp" width="255" >
+        <img src="аполлон4.webp" width="220" >
+        <img src="аполлон5.webp" width="138" >
+        <img src="аполлон6.webp" width="214" >
+        <img src="аполлон7.webp" width="191" >
+        <img src="аполлон8.webp" width="181" >
+        <ol>Должность - GOD</ol>
+        <ol>Часы работы   09:00-00:00</ol>
+        <p style="text-align: center;"><em>Полли</em></p>
+        <img src="Полли.jpg" width="150">
+        <ol>Должность - Поддержка морально и душевно больных</ol>
+        <ol>Часы работы КРУГЛОСУТОЧНО</ol>
+    </h2>
+    
+    <strong>Для получения более подробной информации, просьба обращатся в телеграмм.</strong>
+    <ul>
+        <p>
+        
+            <a href="https://t.me/+QjG7-PGfSAs3NDFi">
+                <img src="Телеграмм.jpg" width="200"/>
+        </a>
+    </p>
+    </ul>
+    <br>
+    <br>
+    <form action="https://www.twitch.tv/frfrmur" target="_blank">
+    <button  style="padding: 20px;
+    color: white;
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 0ex;
+    " > Не нажимай на меня</button>
+    </form>
+
+</body>
+</html>
